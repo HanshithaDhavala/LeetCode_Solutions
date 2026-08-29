@@ -19,4 +19,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
