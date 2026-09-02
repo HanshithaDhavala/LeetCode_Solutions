@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -69,4 +71,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0278-first-bad-version/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
