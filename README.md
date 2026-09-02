@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0278-first-bad-version](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
