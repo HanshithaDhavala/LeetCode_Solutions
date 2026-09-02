@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
