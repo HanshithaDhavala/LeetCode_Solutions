@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0070-climbing-stairs](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
