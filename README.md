@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -99,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0176-second-highest-salary/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 <!---LeetCode Topics End-->
