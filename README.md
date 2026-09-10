@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0283-move-zeroes](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
