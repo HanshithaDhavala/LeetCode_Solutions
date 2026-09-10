@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0917-reverse-only-letters](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1678-goal-parser-interpretation](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
