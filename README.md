@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0835-image-overlap](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Interactive
