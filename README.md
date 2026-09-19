@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0836-rectangle-overlap](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3870-count-commas-in-range](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
