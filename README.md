@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1678-goal-parser-interpretation](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +191,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
