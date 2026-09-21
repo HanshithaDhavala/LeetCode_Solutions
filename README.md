@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0283-move-zeroes](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0525-contiguous-array/) | Medium |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
