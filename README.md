@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
