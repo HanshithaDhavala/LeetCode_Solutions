@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0917-reverse-only-letters](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0917-reverse-only-letters/) | Easy |
@@ -217,4 +218,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
