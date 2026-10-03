@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0917-reverse-only-letters](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
