@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0682-baseball-game](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0835-image-overlap](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0682-baseball-game](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
