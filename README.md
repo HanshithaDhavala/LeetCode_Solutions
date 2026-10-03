@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0202-happy-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0844-backspace-string-compare](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Floyd's Cycle Finding Algorithm
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0844-backspace-string-compare](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -228,12 +230,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0844-backspace-string-compare](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
