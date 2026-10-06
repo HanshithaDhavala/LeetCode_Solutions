@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -267,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
