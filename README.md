@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0202-happy-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0844-backspace-string-compare](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
