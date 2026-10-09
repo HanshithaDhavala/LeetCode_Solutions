@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1800-maximum-ascending-subarray-sum](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
