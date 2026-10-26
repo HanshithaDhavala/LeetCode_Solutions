@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -142,12 +143,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0301-remove-invalid-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/0835-image-overlap/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,4 +315,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
