@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/HanshithaDhavala/LeetCode_Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
